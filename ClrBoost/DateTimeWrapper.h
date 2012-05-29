@@ -8,6 +8,7 @@ namespace ClrBoost {
 
 	public ref class DateTimeWrapper
 	{
+		public:
 		static System::Int64 GetMillisSinceEpoch();
 	};
 }
