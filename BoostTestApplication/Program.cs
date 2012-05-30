@@ -12,6 +12,8 @@ namespace BoostTestApplication
         static void Main(string[] args)
         {
             Console.WriteLine(DateTimeWrapper.GetMillisSinceEpoch());
+
+            Console.ReadLine();
         }
     }
 }
